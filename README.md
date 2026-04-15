@@ -1,9 +1,7 @@
----
+
 **Team:** Chiranth D Nandi (PES2UG24AM048) · Danyl Bince (PES2UG24AM050)
 **SCREENSHOTS AND PRESENTATION are in the PDF file named 'MultiContainerRuntime (1).pdf'
 A lightweight container runtime built on Linux namespaces, with a kernel module for memory enforcement and CFS scheduling experiments.
-
----
 
 #commands
 
